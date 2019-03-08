@@ -36,4 +36,5 @@ Creating a logical agent that will attempt to find the gold in a grid and then g
 > > 1. Ask if the four options around are safe based on the KB.
 > > 2. If you can't determine if any of them are safe choose randomly.
 > > 3. Repeat
+>
 > Notes: Generally speaking it is wiser to simply avoid the Wumpus while mapping out the surroundings. Once you find the gold or determine that the gold must be in a pit return to exit.
